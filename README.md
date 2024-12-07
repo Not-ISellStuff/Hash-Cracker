@@ -7,4 +7,6 @@ Simple go script that cracks a hash. Supported Algorithms: MD5, SHA1, SHA256
 
 **go build main.go**
 
+3. **Put your wordlist in wordlist.txt**
+
 # Images
