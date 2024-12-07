@@ -132,7 +132,8 @@ func main() {
 	}
 
 	var ext string
-	var cracked = string(result[1])
-	fmt.Println("[+] Cracked Hash | " + cracked + "\n" + "\nPress Any Key Then Enter To Close > ")
+	fmt.Println("[+] Cracked Hash")
+	fmt.Println(mainr[1])
+	fmt.Println("\nPress Any Key Then Enter To Close > ")
 	fmt.Scan(&ext)
 }
