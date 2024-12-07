@@ -10,3 +10,5 @@ Command --> **go build main.go**
 3. **Put your wordlist in wordlist.txt**
 
 # Images
+
+![image](https://github.com/user-attachments/assets/e513380a-6fb5-4cd0-ab59-2287133395bc)
